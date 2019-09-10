@@ -1,0 +1,45 @@
+Carson Smith CS-401 p1
+DUE: 9/5/2019
+
+1.1: Theme of discussions - Boise Bouldering
+1.2: Off-Topic, Projects, Groups, Gear
+
+1.3: Off-Topic can be about pretty much anything. Dog pictures, video games, politics, really anything as it's where the off-topic discussion would go
+     	EX Topic: My dog!
+	EX Topic: Look at this really cool video!
+	EX Topic: Polilical thing that makes me angry!
+Projects would be about bouldering projects that are either in development, or actively being worked on.
+	EX Topic: Black Cliffs Project (Beginners)
+	EX Topic: Asana Gym Cave Dinos
+	EX Topic: Looking for new outdoor projects near southern Boise!
+Groups would be about finding a group to go boulder with
+	EX Topic: Looking for a group to go to Black Cliffs with this Saturday
+	EX Topic: Wanting to get into bouldering - looking for friends!
+	EX Topic: Need a belayer for Utah project
+Gear would be about climbing gear
+	EX Topic: My new really cool chalk bag
+	EX Topic: Cheap climbing shoes in Boise?
+	EX Topic: The gear at XXX is a ripoff!
+
+
+(PHP is unavailable)
+2.3: visitor - browse discussions
+             - create an account
+             - log in to an account
+     member - create posts
+            - respond to other posts
+            - set an avatar
+     moderator - edit another member's post
+               - delete a post
+               - move a post to another subforum
+     admin - Change the name of a member
+           - Promote a member to moderator
+           - Ban a member from using the board
+
+3.1: boisebouldering.rocks
+3.2: I looked up 'find a domain name' on google and on Google Domains I typed in 'BoiseBouldering' and scrolled down until
+I found a TLD that I liked.
+3.3: From the website where the .rocks TLD came from: 
+".rocks is a great way to promote yourself, your band or anything else you love. 
+It's also an obvious choice for anyone who works with, uh, rocks."
+I couldn't resist this option given how bouldering works with rocks. It was a perfect fit.
