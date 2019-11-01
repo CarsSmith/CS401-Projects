@@ -1,5 +1,4 @@
 #+TITLE:	p1
-[[file:../ASSIGNMENTS.org][back to all]]
 
 * Objectives
 1. To gather high-level details for your semester project.
