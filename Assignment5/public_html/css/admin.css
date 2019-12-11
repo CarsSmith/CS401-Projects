@@ -1,0 +1,174 @@
+* { box-sizing: border-box; }
+html, body, form, h1, h2 { margin:0; padding:0; }
+body {
+    font-family: Verdana, sans-serif;
+}
+header {
+    position: fixed;
+    width: 100%;
+    background-color: #124;
+    color: #fee;
+    padding: 20px;
+}
+header strong {
+    display: block;
+    text-overflow: ellipsis;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+header a,
+header a:visited {
+    display: inline-block;
+    padding: 0 10px;
+    margin: 0 10px;
+    color: #fde;
+}
+header a:hover {
+    color: #dfe;
+}
+main {
+    padding: 100px 20px;
+}
+main a, main a:visited {
+    color: #24c;
+}
+
+.main-nav a {
+    display: block;
+    width:150px;
+    padding: 10px;
+    border-bottom: solid 1px #abc;
+}
+.main-nav a:hover {
+    background-color: #abc;
+}
+.main-nav a:nth-child(1),
+.main-nav a:nth-child(2),
+.main-nav a:last-child {
+    display: none;
+}
+
+code.Y, code.N {
+    color: #aaa;
+    font-size: small;
+}
+code.Y {
+    color: #474;
+}
+code.Y:before {
+    content: '✓';
+    color: black;
+}
+.user-item {
+    list-style-type: none;
+    padding: 10px;
+}
+.user-item:hover {
+    background-color: #eec;
+}
+.user-item strong {
+    display: block;
+    color: #669;
+}
+.user-item > a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+body.user-edit input[type=text] {
+    font-size: 15px;
+    padding: 3px 10px;
+    width: 300px;
+}
+body.user-edit h2 {
+    margin-top: 20px;
+}
+body.user-edit form label {
+    display: block;
+}
+body.user-edit aside label {
+    display: inline-block;
+    border-radius: 3px;
+    background-color: #def;
+    color: #321;
+    font-size: small;
+    width: 120px;
+    text-align: center;
+}
+body.user-edit aside label + * {
+    color: #888;
+    font-size: small;
+}
+
+body.user-edit form input[type=submit],
+body.user-edit form input[type=reset] {
+    border: none;
+    border-radius: 5px;
+    padding: 6px 16px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+body.user-edit form input[type=submit] {
+    color: #fff;
+    background-color: #46a;
+}
+body.user-edit form input[type=submit]:hover {
+    background-color: #46c;
+}
+body.user-edit form input[type=reset] {
+    color: #333;
+    background-color: #ddd;
+}
+body.user-edit form input[type=reset]:hover {
+    background-color: #ccd;
+}
+span.error {
+    color: #c00;
+    background-color: #fee;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 2px;
+}
+
+span.form-message {
+    color: #064;
+    background-color: #dfe;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 2px;
+}
+
+.create-user {
+    padding: 20px;
+    border: solid 5px black;
+    border-radius: 5px;
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+.create-user h1 {
+    padding-bottom: 10px;
+    text-align: center;
+}
+#labels {
+    width: 45%;
+    text-align: center;
+}
+
+#inputs input {
+    height: 15px;
+}
+#inputs {
+    width: 45%;
+}
+#forms {
+    display: flex;
+}
+
+.submit-button {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
